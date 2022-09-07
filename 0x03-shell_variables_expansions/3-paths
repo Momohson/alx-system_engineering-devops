@@ -1,0 +1,2 @@
+#!/bin/bash
+echom$PATH | tr -s "." "\n" | wc -l
